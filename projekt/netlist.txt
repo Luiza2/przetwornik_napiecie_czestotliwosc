@@ -1,0 +1,65 @@
+Netlist
+
+Exported from BlaszczakPI.sch at 28.03.2019 17:43
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+GND      C1       +        +          1
+         C2       -        -          1
+         C3       2        2          1
+         C4       1        1          1
+         D1       A        A          1
+         IC1      1        GND        1
+         R2       1        1          1
+         X1       2        KL         1
+         X2       2        KL         1
+         X3       2        KL         1
+
+N$1      R1       1        1          1
+         X1       1        KL         1
+
+N$3      IC2      2        -IN        1
+         R2       2        2          1
+         R3       1        1          1
+
+N$4      C1       -        -          1
+         IC2      4        V-         1
+         R6       S        S          1
+         X3       3        KL         1
+
+N$5      C2       +        +          1
+         IC2      7        V+         1
+         R5       1        1          1
+         X3       1        KL         1
+
+N$6      IC2      1        ON1        1
+         R6       E        E          1
+
+N$7      IC2      5        ON2        1
+         R6       A        A          1
+
+N$8      IC2      6        OUT        1
+         R3       2        2          1
+         R4       1        1          1
+
+N$9      D1       C        C          1
+         IC1      4        /RES       1
+         IC1      8        VCC+       1
+         R5       2        2          1
+
+N$11     C4       2        2          1
+         IC1      5        CON        1
+
+N$12     IC1      3        OUT        1
+         X2       1        KL         1
+
+R80      C3       1        1          1
+         IC1      2        TRI        1
+         IC1      6        TRE        1
+         IC1      7        DIS        1
+         IC2      3        +IN        1
+         R1       2        2          1
+         R4       2        2          1
+

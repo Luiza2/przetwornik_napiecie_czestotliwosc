@@ -1,0 +1,23 @@
+Partlist exported from C:/Users/luiza/Desktop/MPITR/zadanie/projekt/BlaszczakPI.sch at 28.03.2019 17:37
+
+Part Value                     Device                    Package                    Description                          MF                MPN     OC_FARNELL OC_NEWARK
+C1   220u                      RCL_CPOL-EUE2.5-7         RCL_E2,5-7                 POLARIZED CAPACITOR, European symbol                                               
+C2   220u                      RCL_CPOL-EUE2.5-7         RCL_E2,5-7                 POLARIZED CAPACITOR, European symbol                                               
+C3   22n                       C-EUC1206                 C1206                      CAPACITOR, European symbol                                                         
+C4   10n                       C-EUC1206                 C1206                      CAPACITOR, European symbol                                                         
+D1   DIODE_1N5819-B            DIODE_1N5819-B            DIODE_DO41-7.6             1.0A SCHOTTKY BARRIER RECTIFIER                                                    
+IC1  ST-MICROELECTRONICS_NE555 ST-MICROELECTRONICS_NE555 ST-MICROELECTRONICS_DIL-08 General purpose bipolar Timer        Arrow Electronics NE555N  1467742    89K1486  
+IC2  LINEAR_UA741P             LINEAR_UA741P             LINEAR_DIL08               OP AMP                                                                             
+PAD1                           2,54/1,1                  2,54/1,1                   THROUGH-HOLE PAD                                                                   
+PAD2                           2,54/1,1                  2,54/1,1                   THROUGH-HOLE PAD                                                                   
+PAD3                           2,54/1,1                  2,54/1,1                   THROUGH-HOLE PAD                                                                   
+PAD4                           2,54/1,1                  2,54/1,1                   THROUGH-HOLE PAD                                                                   
+R1   5k6                       R-EU_M1206                M1206                      RESISTOR, European symbol                                                          
+R2   5k6                       R-EU_M1206                M1206                      RESISTOR, European symbol                                                          
+R3   2k7                       R-EU_M1206                M1206                      RESISTOR, European symbol                                                          
+R4   2k7                       R-EU_M1206                M1206                      RESISTOR, European symbol                                                          
+R5   470                       R-EU_M1206                M1206                      RESISTOR, European symbol                                                          
+R6   10k                       POT_TRIM_EU-CA6V          POT_CA6V                   POTENTIOMETER                                                                      
+X1                             CON-WAGO-500_W237-102     CON-WAGO-500_W237-102      WAGO SCREW CLAMP                                       237-102 unknown    70K9898  
+X2                             CON-WAGO-500_W237-102     CON-WAGO-500_W237-102      WAGO SCREW CLAMP                                       237-102 unknown    70K9898  
+X3                             CON-WAGO-500_W237-103     CON-WAGO-500_W237-103      WAGO SCREW CLAMP                                       237-103 unknown    18M7116  
